@@ -58,7 +58,7 @@
     "protobufjs": "^7.6.3",
     "minimist": "^1.2.8",
     "xmlhttprequest-ssl": "^1.6.2",
-    "node-forge": "^1.4.0",
+    "node-forge": "^1.4.3",
     "brace-expansion": "^1.1.21",
     "adm-zip": "^0.6.1",
     "postcss": "^8.5.23",
